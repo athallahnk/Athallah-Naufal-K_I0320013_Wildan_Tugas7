@@ -1,0 +1,11 @@
+nama= "Bertobatlah di bulan Ramadhan!"
+x= nama.upper()
+s= nama.replace('o','au')
+t= nama.center(100,"*")
+i= nama.count("la")
+w= nama.replace('Bertobatlah di bulan','Marhaban Yaa')
+print(x)
+print(s)
+print(t)
+print(i)
+print(w)
